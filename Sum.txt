@@ -1,0 +1,9 @@
+void main(){
+  int s=0,a=2,b=3;
+  s=a-b;
+  if(s>0){
+    s=1;
+  }else{
+    s=0;
+  }
+}
